@@ -11,4 +11,4 @@ Hi, 👋 I’m NishatSiddiqui
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: My VS Code Debugger Extension, built with Node.js and WebSocket, streamlines debugging for 100+ users—saving hours of dev time!
+
