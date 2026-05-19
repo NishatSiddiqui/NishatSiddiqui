@@ -1,14 +1,58 @@
-Hi, 👋 I’m NishatSiddiqui 
-  I’m a Node.js Backend Developer with over 2 years of experience building scalable RESTful APIs and microservices using Node.js, Express, and MongoDB. I am passionate about creating efficient backend solutions.
+# Hi, I'm Nishat Siddiqui 👋
 
-👀 I’m interested in: Building robust backend systems, exploring microservices architecture, and contributing to innovative web applications.
+Node.js Backend Developer focused on building scalable backend systems and RESTful APIs using Node.js, Express.js, MongoDB, and MySQL.
 
-🌱 I’m currently learning: ReactJs to enhance my Node.js development skills for frontend, modern, scalable applications.
+---
 
-💞️ I’m looking to collaborate on: Open-source Node.js projects or remote backend development roles focused on REST APIs and microservices.
+## Tech Stack
 
-📫 How to reach me: siddiquin344@gmail.com | .[https://www.linkedin.com/in/nishat-siddiqui-025798356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
+### Backend
+- Node.js
+- Express.js
 
-😄 Pronouns: She/Her
+### Databases
+- MongoDB
+- MySQL
 
+### Authentication & Security
+- JWT Authentication
+- Role-Based Access Control
 
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- AWS Basics
+
+### Concepts
+- REST APIs
+- WebSocket
+- API Design
+- Query Optimization
+- Error Handling
+- Backend Debugging
+
+---
+
+## Currently Learning
+
+- Redis
+- Docker
+- Backend Architecture
+- System Design Basics
+- Queue Systems
+
+---
+
+## Featured Projects
+
+- Task Management API
+- Authentication Service
+- Real-Time Chat Backend
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nishat-siddiqui-025798356
+- GitHub: https://github.com/NishatSiddiqui
